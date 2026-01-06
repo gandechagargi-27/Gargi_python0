@@ -20,13 +20,7 @@ True
 >>> f = False
 >>> print(f)
 False
->>> Falseg+False
-Traceback (most recent call last):
-  File "<pyshell#13>", line 1, in <module>
-    Falseg+False
-NameError: name 'Falseg' is not defined. Did you mean: 'False'?
 
->>> 
->>> 
->>> 
->>> 
+
+ 
+
